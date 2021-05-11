@@ -1,0 +1,12 @@
+site_name: SLOCOACH Contentful Documentation
+theme: material
+nav:
+    - Home: index.md
+    - Content Models: content-models.md
+    - Content Implementations: content.md
+    - Content:
+        - Page Promotion:
+            - 'Homepage Carousel': 'content/page-promotion/homepage-carousel.md'
+        - Page Section:
+            - 'What You Get': 'content/page-section/what-you-get.md'
+            - 'How It Works': 'content/page-section/how-it-works.md'

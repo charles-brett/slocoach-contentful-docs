@@ -10,3 +10,4 @@ nav:
         - Page Section:
             - 'What You Get': 'content/page-section/what-you-get.md'
             - 'How It Works': 'content/page-section/how-it-works.md'
+            - 'Frequently Asked Questions': 'content/page-section/faqs.md'
